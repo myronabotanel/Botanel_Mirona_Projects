@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d356149c-0b48-4397-bd2e-0b5e5ee3931d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C5_13/src/Cerc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C5_13/src/FormaGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C5_13/src/Triunghi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C6_1/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C6_1/src/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C6_1/src/EMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C6_2/src/Cerc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C6_2/src/Dreptunghi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C6_2/src/FormaGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C6_2/src/Patrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Calculator/src/CalcController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Calculator/src/CalcModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Calculator/src/CalcView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Colocviu2/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Colocviu2/src/ExceptieAnimalNesanatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Colocviu2/src/ExceptieGreutate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Colocviu2/src/Mamifer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Colocviu2/src/Pasare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Colocviu2/src/Reptila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Colocviu2/src/Vizitator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Colocviu2/src/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Colocviu2/src/ZooMenegement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen1/src/Bicicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen1/src/Cerere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen1/src/Inchiriere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen1/src/Masina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen1/src/NumarPersPreaMare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen1/src/ParametriiGresitiCerere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen1/src/Vehicul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen1_pb1/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen1_pb1/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen1_pb1/src/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen2/src/AdaugareIncopatibila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen2/src/Bani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen2/src/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen2/src/CarteIdentitate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen2/src/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen2/src/LegitimatieTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen2/src/PermisConducere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen2/src/Portofel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen_pb1/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen_pb1/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Examen_pb1/src/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TutorialBroCode1/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TutorialBroCode_mostenire/src/Bicyclw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TutorialBroCode_mostenire/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TutorialBroCode_mostenire/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../claseInJava/src/ClasaMea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../claseInJava/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../claseInJava/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviu1/src/Angajat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviu1/src/Birou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviu1/src/Cladire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviu1/src/Proiect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviuBiblioteca/src/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviuBiblioteca/src/ClientBiblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviuBiblioteca/src/ExceptieCarteDeteriorata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviuBiblioteca/src/ExceptieNrPag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviuBiblioteca/src/Fictiuine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviuBiblioteca/src/Filozofie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviuBiblioteca/src/Istorie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../colocviuBiblioteca/src/Management.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cur6Pb1/src/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cur6Pb2/src/Cerc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cur6Pb2/src/Dreptunghi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cur6Pb2/src/Patrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cur6Pb2/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../curs4_1/src/Apartament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../curs6_1/src/Cascaval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../curs6_1/src/Mancare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../curs6_1/src/Paine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../curs6_1/src/Pranz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../curs6_1/src/PranzLaPachet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../curs6_1/src/Salata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../curs6_1/src/Sandwixh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exColocviu/src/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exColocviu/src/Carte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exColocviu/src/ClientBiblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exColocviu/src/ExceptieCarteDeteriorata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exColocviu/src/ExceptieNrPag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exColocviu/src/Fictiune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exColocviu/src/Filozofie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exColocviu/src/Istorie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exColocviu/src/ManagementBiblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exempluExamen/src/Bicicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exempluExamen/src/Cerere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exempluExamen/src/Masina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exempluExamen/src/Vehicul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/src/Autovehicul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/src/Sofer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab5_2/src/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab5_2/src/Matrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab6_2/src/Caiet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab6_2/src/Ghiozdan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab6_2/src/Manual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab6_2/src/Rechizita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab6_3/src/Nebun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab6_3/src/PiesaSah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab6_3/src/Tura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab7_2/src/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab7_2/src/Fractie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab7_2/src/Numeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8_2/src/CalendarLucru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8_2/src/ExceptieZiNelucratoare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8_2/src/Lucrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8_2/src/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pb/src/Numar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pb1/src/DouaNumere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pb2/src/Complex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/untitled/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/untitled/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/untitled/out/production/untitled/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="UML Sequence" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2aWuGRePRySaSZP441pXYgqYzOC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Sequence&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/facultate/POO/ProiectPOO/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\facultate\POO\ProiectPOO\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\facultate\POO\ProiectPOO\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ProiectPOO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d356149c-0b48-4397-bd2e-0b5e5ee3931d" name="Changes" comment="" />
+      <created>1704446564089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704446564089</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProiectPOO_iml$GamePlay.ic" NAME="GamePlay Coverage Results" MODIFIED="1704726186503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ProiectPOO_iml$Main.ic" NAME="Main Coverage Results" MODIFIED="1712764034608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ProiectPOO$Main.ic" NAME="Main Coverage Results" MODIFIED="1704453966008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ProiectPOO$GamePlay.ic" NAME="GamePlay Coverage Results" MODIFIED="1704451956646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
